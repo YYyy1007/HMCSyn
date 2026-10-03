@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+data/output/
+*.npy
+*.pt
+*.pkl
+
+# Large raw omics files hosted on Zenodo
+data/OmicsCNGeneWGS.csv
+data/OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv

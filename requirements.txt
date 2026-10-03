@@ -1,0 +1,7 @@
+torch>=1.12
+torch-geometric>=2.0
+rdkit>=2022.03
+numpy
+pandas
+scikit-learn
+joblib
