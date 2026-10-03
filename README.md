@@ -46,8 +46,8 @@ All intermediate features (SDAE-reduced matrices, drug graphs, valid ACH list) a
 ## Code Overview
 
 - `train.py` — main training and evaluation
-- `model.py` — HMCSyn model (default learnable hypergraph variant)
+- `model.py` — HMCSyn model 
 - `data.py` — data loading, SDAE feature reduction, dataset classes
 - `config.py` — hyperparameters
-- `process.py` — strict cell-line matching and cleaning (optional)
-- `build_drug_graphs.py` — build drug molecular graphs from `drugInfo.csv` (optional)
+- `process.py` — strict cell-line matching and cleaning 
+- `build_drug_graphs.py` — build drug molecular graphs
